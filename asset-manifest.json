@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbd8024f.chunk.css",
-    "main.js": "/static/js/main.154ee3e1.chunk.js",
-    "main.js.map": "/static/js/main.154ee3e1.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.4fa5e42c.chunk.js": "/static/js/2.4fa5e42c.chunk.js",
-    "static/js/2.4fa5e42c.chunk.js.map": "/static/js/2.4fa5e42c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dd1140871b69eab1b4826b95d023218c.js": "/precache-manifest.dd1140871b69eab1b4826b95d023218c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.fbd8024f.chunk.css.map": "/static/css/main.fbd8024f.chunk.css.map"
+    "main.css": "/reaction-app/static/css/main.fbd8024f.chunk.css",
+    "main.js": "/reaction-app/static/js/main.00f7f5aa.chunk.js",
+    "main.js.map": "/reaction-app/static/js/main.00f7f5aa.chunk.js.map",
+    "runtime~main.js": "/reaction-app/static/js/runtime~main.433980b6.js",
+    "runtime~main.js.map": "/reaction-app/static/js/runtime~main.433980b6.js.map",
+    "static/js/2.4fa5e42c.chunk.js": "/reaction-app/static/js/2.4fa5e42c.chunk.js",
+    "static/js/2.4fa5e42c.chunk.js.map": "/reaction-app/static/js/2.4fa5e42c.chunk.js.map",
+    "index.html": "/reaction-app/index.html",
+    "precache-manifest.c0b694cf2dfcb02d2cdd806ac36d6cc5.js": "/reaction-app/precache-manifest.c0b694cf2dfcb02d2cdd806ac36d6cc5.js",
+    "service-worker.js": "/reaction-app/service-worker.js",
+    "static/css/main.fbd8024f.chunk.css.map": "/reaction-app/static/css/main.fbd8024f.chunk.css.map"
   }
 }
