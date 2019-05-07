@@ -30,4 +30,4 @@ Each component (Navbar, Header, Wrapper, ImageCard, and Footer) all have their s
 
 
 ### Link to deployed App
-![Alt text](https://bbanderson84.github.io/reaction-app/ "Deployed Working Application")
+![Deployed Working Application](https://bbanderson84.github.io/reaction-app/ "Deployed Working Application")
