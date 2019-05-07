@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Newfoundland_dog_Smoky.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/H-P/photoark-lion.ngsversion.1466004832449.png",
+      "clicked": false
+
+    },
+    {
+      "id": 3,
+      "image": "https://defenders.org/sites/default/files/styles/large/public/tiger-dirk-freder-isp.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-image.departures.com/sites/default/files/styles/responsive_900x600/public/1497981982/gray-wolf-alaska-zoo_Joel-Sartore_2000x1333.jpg?itok=9kCTdJdh",
+      "clicked": false
+
+    },
+    {
+      "id": 5,
+      "image": "https://blog.nationalgeographic.org/wp-content/uploads/2013/11/Bacteria-Help-Hyenas-Communicate-s2048x1365-p.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 6,
+      "image": "https://i.kinja-img.com/gawker-media/image/upload/s--Fy2m-wE7--/c_fit,f_auto,fl_progressive,q_80,w_320/ehbloluzr0nfstltxffu.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 7,
+      "image": "https://s.hdnux.com/photos/01/01/64/65/17255755/5/gallery_medium.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 8,
+      "image": "https://www.futurity.org/wp/wp-content/uploads/2018/08/elephant-close-up_1600.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 9,
+      "image": "https://jooinn.com/images/crocodile-eye-2.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 10,
+      "image": "https://www.mercurynews.com/wp-content/uploads/2019/03/GettyImages-1050362202.jpg?w=520",
+      "clicked": false
+
+    },
+    {
+      "id": 11,
+      "image": "https://www.futurity.org/wp/wp-content/uploads/2017/10/snake-close-up_1600.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 12,
+      "image": "https://www.gannett-cdn.com/-mm-/2cb640d078eb9ddfa0d892e3ff12d1167fdd9fc7/c=100-0-900-600/local/-/media/2018/08/10/USATODAY/usatsports/grizzly-bear.jpg?width=534&height=401&fit=crop",
+      "clicked": false
+
+    },
+    {
+      "id": 13,
+      "image": "https://www.cabq.gov/culturalservices/biopark/images/alligator-snapping-turtle-banner.jpg/@@images/image.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "image": "https://dinoanimals.com/wp-content/uploads/2016/06/Rhino.jpg",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "image": "https://defenders.org/sites/default/files/styles/homepage-feature-2015/public/orca-katie-jones.gif?itok=jWUcm7NA",
+      "clicked": false
+    }
+  ]
